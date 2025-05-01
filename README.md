@@ -2,8 +2,6 @@
 
 **WanderWise** is an AI-powered travel planner web application that helps users create personalized trip itineraries based on their preferences, including trip duration, budget, and the number of travelers. Built with modern technologies like **React**, **Tailwind CSS**, **Firestore**, and **Gemini AI**, the app makes travel planning effortless and enjoyable.
 
-## 🚀 Live Demo
-Check out the live demo (Coming shortly) : [WanderWise](#)
 
 ## 🎯 Features
 
@@ -21,9 +19,6 @@ Check out the live demo (Coming shortly) : [WanderWise](#)
 - **AI:** Gemini AI
 - **Hosting:** Vercel
 
-## 🖼️ Screenshots
-
-_Add screenshots here (optional)_
 
 ## 📝 Installation & Setup
 
@@ -55,8 +50,6 @@ To run this project locally, follow these steps:
 
 6. Open http://localhost:3000 to view it in your browser.
 
-## 📦 Deployment
-   Coming very soon :).
    
 ## 💡 Usage
 1. Sign in to the app using your preferred authentication method.
@@ -78,9 +71,4 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 ## 📄 License
 This project is licensed under the MIT License.
 
-## 📬 Contact
-For any questions or suggestions, feel free to reach out:
 
-- Author: Elson Nag
-- Email: nselson26@gmail.com
-- LinkedIn: Elson Nag
