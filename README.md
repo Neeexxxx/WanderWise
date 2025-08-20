@@ -1,3 +1,4 @@
+<img width="802" height="176" alt="image" src="https://github.com/user-attachments/assets/7bdce08f-e80c-447a-a29c-713a5a6947ec" />
 # WanderWise 🌍✨
 
 **WanderWise** is an AI-powered travel planner web application that helps users create personalized trip itineraries based on their preferences, including trip duration, budget, and the number of travelers. Built with modern technologies like **React**, **Tailwind CSS**, **Firestore**, and **Gemini AI**, the app makes travel planning effortless and enjoyable.
@@ -70,5 +71,6 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ## 📄 License
 This project is licensed under the MIT License.
+
 
 
